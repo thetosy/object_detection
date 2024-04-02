@@ -1,4 +1,4 @@
-# Deploying a Deep Learning model
+# Deploying an Object Detection model
 
 Utilizing FastAPI to deploy an object detection model 
 
